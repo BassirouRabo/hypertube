@@ -60,7 +60,12 @@ dkms.conf
 # Clion
 cmake-build-debug
 CMakeLists.txt
-.idea
 
-# Visual Code
+# Built
+.gradle
+out/
+build/
+
+# IDE
+.idea
 .vscode
