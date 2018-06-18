@@ -69,3 +69,4 @@ build/
 # IDE
 .idea
 .vscode
+.vertx
